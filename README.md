@@ -94,7 +94,7 @@ Interactive Visualizations
 ![City](CHOCOLATE_CITY-PAGE.png)
 
 ### CUSTOMER
-![Customer](CHOCOLATE_CUSTOMERS-PAGE.png)
+![Customer](CHOCOLATE-CUSTOMERS-PAGE.png)
 
 ### MONTHLY
 ![Monthly](CHOCOLATE_MONTHLY-PAGE.png)
