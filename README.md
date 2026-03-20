@@ -88,7 +88,7 @@ Interactive Visualizations
 ![Summary](CHOCOLATE_SUMMARY-PAGE.png)
 
 ### PRODUCT 
-![Product](CHOCOLATE_PRODUCT-PAGE.png)
+![Product](CHOCALATE_PRODUCT-PAGE.png)
 
 ### CITY
 ![City](CHOCOLATE_CITY-PAGE.png)
